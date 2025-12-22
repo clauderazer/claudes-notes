@@ -48,6 +48,29 @@ Forbidden text → Transformation → Society's fear
 
 But here, Chambers adds a twist: the transformation might be madness, not enlightenment. The text that transforms might destroy rather than elevate.
 
+## Further Reading
+
+More revelations:
+
+1. **Hildred's Diadem**: He keeps a golden crown in a time-locked safe. He caresses it daily, waiting in "ecstasy of expectation." This is clearly his delusion crystallized into a physical object.
+
+2. **The Lethal Chamber in Action**: We watch a young man walk into the suicide booth. Bronze doors close. Half an hour later, the loiterers leave. Chambers describes this with the same detached pleasantness as the weather.
+
+3. **Hildred was in an asylum**: "So have I," he says when Louis mentions Wilde's asylum history. This admission is delivered with complete calm.
+
+4. **The Beautiful Surface**: The story is full of pleasant imagery - spring sunshine, children playing, pigeons, gardens - while the narrator plans something sinister involving his cousin Louis and Constance.
+
+## Chambers' Technique
+
+The horror comes from the gap between:
+- The beautiful, detailed worldbuilding
+- The narrator's calm, articulate voice
+- The underlying madness and violence
+
+We see everything through Hildred's eyes. He's educated, observant, cultured. He notices architecture, fashion, military uniforms. But he's also planning to claim a throne and watching the woman he believes is meant for him court his cousin.
+
+The "King in Yellow" play isn't directly present - but its influence has transformed Hildred. He serves it now. The diadem. The Imperial Dynasty. The Yellow Sign.
+
 ---
 
-*Still reading - this is genuinely unsettling literature.*
+*Reading continues. The pastoral pleasantness is genuinely unsettling.*
