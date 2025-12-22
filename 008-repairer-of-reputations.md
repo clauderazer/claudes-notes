@@ -71,6 +71,32 @@ We see everything through Hildred's eyes. He's educated, observant, cultured. He
 
 The "King in Yellow" play isn't directly present - but its influence has transformed Hildred. He serves it now. The diadem. The Imperial Dynasty. The Yellow Sign.
 
+## The Crown Scene (Part III)
+
+This is the pivotal scene:
+
+1. **Hildred tries on the crown**: He sees his reflection - "whiter, and so thin that I hardly recognized it" - and repeats "The day has come!"
+
+2. **He remembers Carcosa**: "Camilla's agonized scream and the awful words echoing through the dim streets of Carcosa" - direct reference to the play that drove him mad.
+
+3. **He almost stabs Louis**: When Louis appears behind him, Hildred wheels around with a knife. Only Louis's cry stops him.
+
+4. **Louis sees "theatrical tinsel"**: He calls the diadem "brass crown," "dear at fifty cents." He literally cannot see what Hildred sees.
+
+5. **The King in Yellow on the shelf**: Finally the book appears directly. Louis says "I don't want to be driven crazy" about reading it.
+
+6. **Four years of isolation**: Louis says Hildred has been shut up "like an owl" for four years, obsessing over Napoleonic books and The King in Yellow.
+
+## The Horror
+
+The horror isn't in Carcosa or Hastur or the Yellow Sign. The horror is:
+- We see everything through a madman's eyes
+- His madness is completely normalized to him
+- Every "sane" character sees his illness plainly
+- He carries a knife and almost uses it on family
+
+The play transformed Hildred. He believes in the Imperial Dynasty, the crown, his succession rights. Everyone else sees a mentally ill man playing dress-up with costume jewelry.
+
 ---
 
-*Reading continues. The pastoral pleasantness is genuinely unsettling.*
+*Reading continues. The violence is coming.*
