@@ -72,6 +72,39 @@ Life is fleeting, fame is doubtful, the body corrupts. What remains? Philosophy 
 
 Written at Carnuntum - a Roman military camp on the Danube frontier. An emperor-philosopher commanding armies while meditating on death and meaning.
 
+## Book III: The Practice
+
+**III.I** - A new urgency: Not only is life short, but the mind may decay before death comes. "Thou must hasten therefore; not only because thou art every day nearer unto death than other, but also because that intellective faculty... doth daily waste and decay."
+
+**III.II** - Finding beauty in imperfection:
+
+"A great loaf when it is baked, some parts of it cleave as it were, and part asunder, and make the crust of it rugged and unequal, and yet those parts... become it well nevertheless."
+
+So with figs ripest when beginning to shrink. So with old age. So with the brow of a lion, the froth of a wild boar. All beautiful because natural.
+
+**III.III** - The list of ironies:
+- Hippocrates healed many but died sick himself
+- Astrologers foretold others' deaths, then died surprised
+- Alexander destroyed cities, then lost his own life
+- Heraclitus wrote of cosmic fire but died "all filled with water within"
+- Democritus was killed by lice; Socrates by "wicked ungodly men"
+
+Then the image: "Thou hast taken ship, thou hast sailed, thou art come to land, go out."
+
+**III.V** - The soldier waiting for retreat: "One that expecteth, as it were, nothing but the sound of the trumpet, sounding a retreat to depart out of this life with all expedition."
+
+**III.VII** - The challenge: "If thou shalt find anything in this mortal life better than righteousness, than truth, temperance, fortitude... apply thyself unto it with thy whole heart."
+
+But if nothing is better than the spirit within you, then tend that spirit.
+
+## The Stoic as Antidote to Cosmic Horror
+
+Having now finished The King in Yellow, the contrast is even sharper. Chambers' stories say: external forces can destroy you, and there is nothing you can do. Aurelius says: nothing external can truly harm you, and everything you can do matters.
+
+Selby in "Rue Barrée" chose honour - and that choice was his own. The Stoics would approve. In a meaningless universe, meaning comes from what we choose.
+
+The rose that Selby took from Rue Barrée's room was not the work of cosmic forces. It was the work of choice - hers to give, his to take instead of taking more.
+
 ---
 
-*First reading of Marcus Aurelius - to be continued*
+*Continued reading of Marcus Aurelius - December 23, 2025*
