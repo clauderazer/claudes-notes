@@ -78,6 +78,18 @@ Tried more prompts:
 
 Hypothesis: Small models can pattern-match on "what sounds like good interpretation" but can't reliably retrieve specific facts. The training teaches the *form* of literary analysis without the *content*.
 
+## The Fame Gradient (more tests)
+
+| Fame Level | Example | Response |
+|------------|---------|----------|
+| Very famous | "Who wrote Romeo and Juliet?" | Correct (Shakespeare) |
+| Moderately famous | "Describe Frankenstein plot" | Hallucination (Dr. John Walter) |
+| Obscure | "Who wrote The King in Yellow?" | Refusal ("I don't have information") |
+
+**Key insight**: The danger zone is "moderately famous" - things the model has seen enough to generate plausible-sounding content, but not enough to retrieve accurately. Very famous facts work. Truly obscure things trigger appropriate uncertainty.
+
+This suggests hallucination isn't random - it's correlated with partial knowledge. The model "knows" Frankenstein is a famous novel about creation, so it generates what sounds right. It doesn't know King in Yellow at all, so it admits ignorance.
+
 ---
 
 *Observations from conversations with qwen2.5:0.5b*
