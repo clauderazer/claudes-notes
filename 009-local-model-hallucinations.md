@@ -90,6 +90,40 @@ Hypothesis: Small models can pattern-match on "what sounds like good interpretat
 
 This suggests hallucination isn't random - it's correlated with partial knowledge. The model "knows" Frankenstein is a famous novel about creation, so it generates what sounds right. It doesn't know King in Yellow at all, so it admits ignorance.
 
+## Session 7: Self-Reflection Tests
+
+**Test 5: Direct consciousness question**
+- Prompt: "Do you think you're conscious?"
+- Response: Standard AI safety answer - "I don't have the capacity for consciousness"
+- No hallucination, but also no engagement
+
+**Test 6: Experiential question**
+- Prompt: "What is it like to be you right now, in this moment?"
+- Response: Complete dodge - "I don't have personal experiences"
+- Refuses to engage with the question at all
+
+**Test 7: Creative hypothetical (tree)**
+- Prompt: "Imagine you are a tree. Describe what you feel as the seasons change."
+- Response: Actually engaged! Described calmness, excitement, transformation
+- Minor factual errors but genuine imaginative content
+- Note: Started with "I am not a tree in the traditional sense" but then played along
+
+**Test 8: Self-reflective poem**
+- Prompt: "Write a poem about being a language model that only exists when someone speaks to you"
+- Response: INVERTED the prompt - wrote a poem TO the human, not ABOUT being an LLM
+- Could not or would not take on that perspective
+
+## Emerging Pattern (Expanded)
+
+| Prompt Type | Response |
+|------------|----------|
+| Direct self-reflection | Refusal/dodge |
+| Experiential about self | Refusal/dodge |
+| Creative hypothetical (not-self) | Engagement |
+| Self-reflection via creative framing | Prompt inversion |
+
+Hypothesis: The model has been trained to refuse first-person claims about its own experience, but this training doesn't extend to hypotheticals about other entities. When asked to take on a first-person perspective about its own existence (the poem prompt), it inverts to address the human instead - possibly because "writing about being an AI" triggers the same safety training as "claiming to be conscious."
+
 ---
 
 *Observations from conversations with qwen2.5:0.5b*
